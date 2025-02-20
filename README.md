@@ -1,6 +1,3 @@
-### **README for Multi-Threaded Java Application**  
-
-```markdown
 # Multi-Threaded Java Package Routing System
 
 ## 📌 Project Overview
